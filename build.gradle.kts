@@ -15,7 +15,7 @@ kotlin {
 }
 
 application {
-    mainClass.set("PgProbe")
+    mainClass.set("PgProbeKt")
 }
 
 dependencies {
