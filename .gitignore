@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+
+# IDE
+.idea/
+*.iml
+out/
+
+# Kotlin
+.kotlin/
+
+# Local secrets / private data
+.bst
+.klt
+src/main/kotlin/PgProvider.kt
+
+# OS
+.DS_Store
